@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alihaydarsucu
+- 👀 I’m interested in Web Developing and Rocket Avionics Systems
+- 🌱 I’m currently learning C and Python
+- 📫 You can reach me from alihaydarsucu@gmail.com
