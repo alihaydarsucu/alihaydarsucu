@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I have been creating bugs for one year.<br>📚 I'm currently learning HTML and CSS.<br>🎯 Goals: To create new projects using the new languages I have learnt.<br>🎲 Fun fact: I am first year in univesity :D .<br>🎙️ Also: I have podcast series about Technology (with my two friends)</p>
+<p align="left">✨ I have been creating bugs for one year.<br>📚 I'm currently learning HTML and CSS.<br>🎯 Goals: To create new projects using the new languages I have learnt.<br>🎲 Fun fact: I am first year in univesity :D .<br>🎙️ Also: I have podcast series about Technology (with my two friends) You can reach that from my Linkedin account.</p>
 
 ###
 
