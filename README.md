@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ali Haydar SUCU and I'm a Computer Enginering Student from Turkiye.</p>
+<p align="left">My name is Ali Haydar SUCU and I'm a Computer Enginering Student in Ankara Yıldırım Beyazıt University.</p>
 
 ###
 
