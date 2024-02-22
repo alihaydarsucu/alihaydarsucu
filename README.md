@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I have been creating bugs for one year.<br>📚 I'm currently learning JavaScript.<br>🎯 Goals: To create new projects using the new languages I have learnt.<br>🎙️ Also: I have podcast series about Technology (with my two friends)(You can reach that from my Linkedin account.)</p>
+<p align="left">✨ I have been creating bugs for one year.<br>📚 I'm currently learning JavaScript.<br>🎯 Goals: To create new projects using the new languages I have learnt.<br>🎙️ Also: I have podcast series about Technology (with my two friends)(You can reach that podcast <a target="_blank" href="https://open.spotify.com/show/5e7U7UMTUi8K9n11wK9nmM">right here.</a>)</p>
 
 ###
 
