@@ -37,11 +37,7 @@ const data = {
 <h3 align="left">Most Used Languages</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&hide_border=false&layout=compact)
-<h2 align="left"> My Recent Projects 🎉</h2>
-<ul>
-  <li><a href="https://github.com/alihaydarsucu/SafeCrypt.github.io">SafeCrypt: Generate and Use Secure Passwords</a></li>
-  <li><a href="https://github.com/alihaydarsucu/DoneIt.github.io">Done It: Get Things Done</a></li>
-</ul>
+
 <h2 align="left">Let's Connect!</h2>
 <div align="left">
   <a href="mailto:alihaydarsucu@gmail.com">
