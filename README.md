@@ -1,6 +1,6 @@
 <h1 align="left">Hello, World! 👨‍💻👋</h1>
 <h2 align="left">About Me</h2>
-<p align="left">🌱 I'm Ali, a passionate Computer Engineering student at Ankara Yıldırım Beyazıt University.<br>🚀 I've been diving into the world of web development, creating projects with HTML, CSS, and JavaScript.<br>🎯 My goal is to become a proficient Web Developer.<br>🐧 Linux enthusiast and open-source advocate.</p>
+<p align="left">🌱 I'm Ali, a passionate Computer Engineering student at Ankara Yıldırım Beyazıt University.<br>🚀 I've been diving into the world of web development, creating projects with HTML, CSS, and JavaScript.<br>🐧 Linux enthusiast and open-source advocate.</p>
 <h2 align="left">I Code With 💻</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
