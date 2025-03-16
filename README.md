@@ -5,7 +5,6 @@
 🌱 I'm **Ali Haydar Sucu**, a **Computer Engineering** student at **Ankara Yıldırım Beyazıt University**.<br>
 🚀 Passionate about **embedded software development**, currently working on **unmanned marine vehicle systems**.<br>
 🐧 **Linux enthusiast** and open-source advocate.<br>
-📚 Interested in **autonomous systems, robotics, and AI**.
 
 ## Technologies & Tools 💻
 
