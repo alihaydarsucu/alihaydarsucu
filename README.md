@@ -30,7 +30,7 @@
 
 - **[Done It](https://github.com/alihaydarsucu/DoneIt.github.io)** - A feature-rich to-do web app with categories, language selection, and search.
 - **[SafeCrypt](https://github.com/alihaydarsucu/SafeCrypt.github.io)** - A JavaScript-based password generator ensuring strong passwords.
-- **[E-Portfolio](https://github.com/alihaydarsucu/portfolio)** - My personal portfolio website showcasing my skills and projects.
+- **[E-Portfolio]([https://github.com/alihaydarsucu/portfolio](https://github.com/alihaydarsucu/alihaydarsucu.github.io))** - My personal portfolio website showcasing my skills and projects.
 
 ## Fun Facts as Code 😄
 
