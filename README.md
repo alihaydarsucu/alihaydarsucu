@@ -57,7 +57,7 @@ const data = {
 ![](https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=false)
 
 ### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&hide_border=false&layout=compact) 
 
 ## Let's Connect! 🌍
 
