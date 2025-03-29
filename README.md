@@ -3,8 +3,8 @@
 ## About Me
 
 🌱 I'm **Ali Haydar Sucu**, a **Computer Engineering** student at **Ankara Yıldırım Beyazıt University**.<br>
-🚀 Passionate about **embedded software development**, currently working on **unmanned marine vehicle systems**.<br>
-🐧 **Linux enthusiast** and open-source advocate.<br>
+🚀 Passionate about **web development** and **embedded software development**, currently working on **unmanned marine vehicle systems**.<br>
+🐧 **Linux enthusiast** and open-source lover.<br>
 
 ## Technologies & Tools 💻
 
@@ -52,23 +52,20 @@ const data = {
 ```
 
 ## My GitHub Statistics 📊
+<br>
 
-### GitHub Status
-![](https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=false)
-
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&hide_border=false&layout=compact) 
+<img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl" style="width: 46%;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&layout=compact" style="width: 41%;">
 
 ## Let's Connect! 🌍
 
 <div>
   <a href="mailto:alihaydarsucu@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" alt="email logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="email logo"/>
   </a>
   <a href="https://www.linkedin.com/in/ali-haydar-sucu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" alt="linkedin logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50" alt="linkedin logo"/>
   </a>
   <a href="https://www.instagram.com/alihaydarsucu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40" height="40" alt="instagram logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" height="50" alt="instagram logo"/>
   </a>
 </div>
