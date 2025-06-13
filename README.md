@@ -43,8 +43,8 @@ const data = {
 
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl" height="230" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl" height="180" /> 
   <img width="10" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&layout=compact" height="230" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&layout=compact" height="180" /> 
 </div>
 
