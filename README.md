@@ -41,19 +41,10 @@ const data = {
 }
 ```
 
-## My GitHub Statistics 📊
-<img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&layout=compact">
 
-## Let's Connect! 🌍
-<div>
-  <a href="mailto:alihaydarsucu@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50" alt="email logo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ali-haydar-sucu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50" alt="linkedin logo"/>
-  </a>
-  <a href="https://www.instagram.com/alihaydarsucu/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" height="50" alt="instagram logo"/>
-  </a>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl" height="230" /> 
+  <img width="10" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&theme=nightowl&layout=compact" height="230" /> 
 </div>
+
