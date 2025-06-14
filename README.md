@@ -27,24 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-## Fun Facts as Code 😄
-
-```javascript
-const data = {
-  interests: [
-    "embedded systems",
-    "linux",
-    "open-source projects",
-    "web development",
-    "ai",
-  ],
-  trivia: {
-    preferredBrowser: "brave",
-    preferredDistro: "arch", // btw... 😆
-    preferredDesktopEnvironment: "gnome",
-  },
-};
-```
+## Statistics 📊
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl" height="190" style="margin-right:20px;margin-top: 10px" /> 
