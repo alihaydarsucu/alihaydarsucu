@@ -3,8 +3,6 @@
   <img>
 </div>
 
-# 👋 Hi, I'm Ali
-
 🌱 I'm Ali Haydar Sucu, a **Computer Engineering student** at Ankara Yıldırım Beyazıt University.
 
 🚀 Passionate about **web development** and **embedded software** , currently working on an **unmanned marine vehicle system** and **local llm based AI projects**.
@@ -36,7 +34,7 @@
 ### 🌊 Embedded & Robotics
 
 - **[Pusula USV](https://alihaydarsucu.github.io/pusula.github.io/)**  
-  Our Unmanned Surface Vehicle project, including competition details and project information.
+  Our Unmanned Surface Vehicle project, including competition details and project information.  
   _Tech: ROS, Python, C, QGroundControl, etc..._
 
 - **[SUCU - Advanced System Management Tool](https://github.com/alihaydarsucu/sucu)**  
@@ -60,8 +58,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎯 Goals
