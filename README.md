@@ -11,49 +11,22 @@
 
 ## 🚀 Tech Stack
 
-**Languages & Core:**  
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![Bash](https://skillicons.dev/icons?i=bash)
+<div align="center">
 
-**Frameworks & Tools:**  
-![Docker](https://skillicons.dev/icons?i=docker "Docker")
-![Git version control](https://skillicons.dev/icons?i=git "Git")
-![GitHub repository hosting](https://skillicons.dev/icons?i=github "GitHub")
-![Linux operating system](https://skillicons.dev/icons?i=linux "Linux")
-![Arch Linux distribution](https://skillicons.dev/icons?i=arch "Arch Linux")
-![Visual Studio Code editor](https://skillicons.dev/icons?i=vscode "VS Code")
-![PyCharm IDE](https://skillicons.dev/icons?i=pycharm "PyCharm")
-![ROS robotics framework](https://skillicons.dev/icons?i=ros "ROS")
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>Languages & Core:</b><br>
+      <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,javascript,python,java,bash&perline=3">
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Frameworks & Tools:</b><br>
+      <img alt="My Tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode,pycharm,ros&perline=4">
+    </td>
+  </tr>
+</table>
 
-## 📌 Featured Projects
-
-### 🌊 Embedded & Robotics
-
-- **[Pusula USV](https://alihaydarsucu.github.io/pusula.github.io/)**  
-  Our Unmanned Surface Vehicle project, including competition details and project information.  
-  _Tech: ROS, Python, C, QGroundControl, etc..._
-
-- **[SUCU - Advanced System Management Tool](https://github.com/alihaydarsucu/sucu)**  
-  CLI tool for Arch Linux-based systems, automating system updates, package management, and performance monitoring.  
-  _Tech: Bash, Linux_
-
-### 🌐 Web Development
-
-- **[AYBÜ Turkish World Youth Community Website](https://aybuturkdunyasi.com)**  
-  Community-focused website for promoting cultural and student activities.  
-  _Tech: NodeJS, Express, MySQL, JS_
-
-- **[My Portfolio Website](https://alihaydarsucu.github.io)**  
-  Responsive personal portfolio showcasing projects and skills with smooth animations.  
-  _Tech: HTML, CSS, JS_
-
-- **[Justice Jumper](https://github.com/alihaydarsucu/justice-jumper)**  
-  Flappy Bird-inspired game with a law-themed twist and pixel art graphics.  
-  _Tech: JavaScript, HTML Canvas_
+</div>
 
 ## 📊 Stats
 
