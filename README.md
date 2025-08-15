@@ -11,20 +11,13 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div >
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <b>Languages & Core:</b><br>
-      <img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,javascript,python,java,bash&perline=3">
-    </td>
-    <td align="center" valign="top" width="50%">
-      <b>Frameworks & Tools:</b><br>
-      <img alt="My Tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode,pycharm,ros&perline=4">
-    </td>
-  </tr>
-</table>
+**Languages & Core:**  
+<img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,javascript,python,java,bash&perline=6">
+
+**Frameworks & Tools:**  
+<img alt="My Tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode,pycharm,ros&perline=8">
 
 </div>
 
