@@ -6,7 +6,7 @@
 
 🐧 **Linux** enthusiast and open-source lover.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=alihaydarsucu&style=flat-square&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=alihaydarsucu&style=flat-square&color=blue)
 
 ## 🚀 Tech Stack
 
