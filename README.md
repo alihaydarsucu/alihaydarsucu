@@ -1,13 +1,12 @@
-<div align="center">
-  <img src="github_banner.png" alt="GitHub Banner" style="width:800px; max-width:100%;" />
-  <img>
-</div>
+# 👋 Hi there!
 
 🌱 I'm Ali Haydar Sucu, a **Computer Engineering student** at Ankara Yıldırım Beyazıt University.
 
-🚀 Passionate about **web development** and **embedded software** , currently working on an **unmanned marine vehicle system** and **local llm based AI projects**.
+🚀 Passionate about **web development** and **embedded software**, currently working on an **unmanned marine vehicle system** and **local LLM-based AI projects**.
 
 🐧 **Linux** enthusiast and open-source lover.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=alihaydarsucu&style=flat-square&color=blueviolet)
 
 ## 🚀 Tech Stack
 
@@ -23,7 +22,7 @@
 
 ## 📊 Stats
 
-<div align="center">
+<div align="center" display="inline">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
 </div>
