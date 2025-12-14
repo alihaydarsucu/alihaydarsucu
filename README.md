@@ -22,12 +22,13 @@
 
 </div>
 
-## 📊 Stats
+## 📊 Stats 
 
-<div align="center" display="inline">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+<div align="center" display="inline"> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" /> 
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" /> 
 </div>
+
 
 ## 🎯 Goals
 
