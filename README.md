@@ -1,8 +1,7 @@
 # 👋 Hi there!
 
 🌱 I'm Ali Haydar Sucu, a **Computer Engineering student** at Ankara Yıldırım Beyazıt University.
-
-🚀 Focused on Embedded Systems and systems programming, with hands-on experience across different layers of software.
+  Focused on Embedded Systems and systems programming, with hands-on experience close to hardware, operating systems, and system tooling
 
 🧩 Previously built web-based projects and currently exploring AI-assisted systems alongside low-level development.
 
@@ -15,18 +14,13 @@
 <div >
 
 **Languages & Core:**  
-<img alt="My Skills" src="https://skillicons.dev/icons?i=html,css,javascript,c,python,java,bash&perline=7">
+<img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,java,javascript&perline=6">
 
 **Frameworks & Tools:**  
-<img alt="My Tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode,pycharm,ros&perline=8">
+<img alt="My Tools" src="https://skillicons.dev/icons?i=linux,arch,git,github,docker,ros,cmake,vscode&perline=10">
 
-</div>
+**Embedded & Systems** : STM32, Raspberry Pi, Qt (C++ GUI & system tools)
 
-## 📊 Stats 
-
-<div align="center" display="inline"> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alihaydarsucu&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" /> 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihaydarsucu&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" /> 
 </div>
 
 
@@ -36,7 +30,7 @@
 - Publish clean STM32 repositories (README + schematics + explanations)
 - Contribute to open-source projects (embedded, tooling, or AI infra)
 
-## 📫 Let's Connect
+## 📫 Contact & Links
 
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub Profile")](https://github.com/alihaydarsucu)
 [![Gmail](https://skillicons.dev/icons?i=gmail "Send Email")](mailto:alihaydarsucu@gmail.com)
