@@ -5,11 +5,12 @@
 
 🧩 Previously built web-based projects and currently exploring AI-assisted systems alongside low-level development.
 
-🐧 **Linux** enthusiast and open-source lover.
+🐧 **Linux** enthusiast and open-source lover. 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alihaydarsucu&style=flat-square&color=blue)
 
-## 🚀 Tech Stack
+<details>
+<summary><strong>🚀 Tech Stack</strong></summary>
 
 <div >
 
@@ -23,17 +24,21 @@
 
 </div>
 
+</details>
 
-## 🎯 Goals
+
+<details>
+<summary><strong>🎯 Goals</strong></summary>
 
 - Expand **Embedded and AI** projects combining robotics & ML
 - Publish clean STM32 repositories (README + schematics + explanations)
 - Contribute to open-source projects (embedded, tooling, or AI infra)
 
-## 📫 Contact & Links
+</details>
+<br>
 
-[![GitHub](https://skillicons.dev/icons?i=github "GitHub Profile")](https://github.com/alihaydarsucu)
-[![Gmail](https://skillicons.dev/icons?i=gmail "Send Email")](mailto:alihaydarsucu@gmail.com)
-[![Portfolio](https://skillicons.dev/icons?i=htmx "Website")](https://alihaydarsucu.github.io)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin "LinkedIn")](https://linkedin.com/in/alihaydarsucu)
-[![Instagram](https://skillicons.dev/icons?i=instagram "Instagram")](https://instagram.com/alihaydarsucu)
+[![GitHub](https://skillicons.dev/icons?i=github&size=40 "GitHub Profile")](https://github.com/alihaydarsucu)
+[![Gmail](https://skillicons.dev/icons?i=gmail&size=40 "Send Email")](mailto:alihaydarsucu@gmail.com)
+[![Portfolio](https://skillicons.dev/icons?i=htmx&size=40 "Website")](https://alihaydarsucu.github.io)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=40 "LinkedIn")](https://linkedin.com/in/alihaydarsucu)
+[![Instagram](https://skillicons.dev/icons?i=instagram&size=40 "Instagram")](https://instagram.com/alihaydarsucu)
