@@ -1,11 +1,13 @@
-# 👋 Hi there!
+# 👋 Hi, I'm Ali Haydar
 
-🌱 I'm Ali Haydar Sucu, a **Computer Engineering student** at Ankara Yıldırım Beyazıt University.
-  Focused on Embedded Systems and systems programming, with hands-on experience close to hardware, operating systems, and system tooling
+Computer Engineering student focused on AI Systems Engineering & Embedded Development.
 
-🧩 Previously built web-based projects and currently exploring AI-assisted systems alongside low-level development.
+I build intelligent systems that operate close to the hardware layer — combining AI, Linux-based environments, and low-level programming.
 
-🐧 **Linux** enthusiast and open-source lover. 
+Previously worked on web-based systems, now shifting towards AI-integrated and systems-level architectures.
+
+🐧 Linux & open-source enthusiast
+⚙️ Interested in system tooling, embedded platforms, and autonomous systems
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=alihaydarsucu&style=flat-square&color=blue)
 
