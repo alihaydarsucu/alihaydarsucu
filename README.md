@@ -2,9 +2,9 @@
 
 Computer Engineering student focused on AI Systems Engineering & Embedded Development.
 
-I build intelligent systems that operate close to the hardware layer — combining AI, Linux-based environments, and low-level programming.
+I develop intelligent systems that operate close to the hardware layer - combining AI, Linux-based environments, and low-level programming.
 
-Previously worked on web-based systems, now shifting towards AI-integrated and systems-level architectures.
+Building autonomous vehicles and robotics through hands-on defense-sector projects.
 
 🐧 Linux & open-source enthusiast
 ⚙️ Interested in system tooling, embedded platforms, and autonomous systems
