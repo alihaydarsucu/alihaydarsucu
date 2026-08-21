@@ -39,8 +39,6 @@ Building autonomous vehicles and robotics through hands-on defense-sector projec
 </details>
 <br>
 
-[![GitHub](https://skillicons.dev/icons?i=github&size=40 "GitHub Profile")](https://github.com/alihaydarsucu)
 [![Gmail](https://skillicons.dev/icons?i=gmail&size=40 "Send Email")](mailto:alihaydarsucu@gmail.com)
 [![Portfolio](https://skillicons.dev/icons?i=htmx&size=40 "Website")](https://alihaydarsucu.github.io)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=40 "LinkedIn")](https://linkedin.com/in/alihaydarsucu)
-[![Instagram](https://skillicons.dev/icons?i=instagram&size=40 "Instagram")](https://instagram.com/alihaydarsucu)
