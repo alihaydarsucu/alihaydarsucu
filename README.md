@@ -19,10 +19,13 @@ Building autonomous vehicles and robotics through hands-on defense-sector projec
 **Languages & Core:**  
 <img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,java,javascript&perline=6">
 
-**Frameworks & Tools:**  
-<img alt="My Tools" src="https://skillicons.dev/icons?i=linux,arch,git,github,docker,ros,cmake,vscode&perline=10">
+**Frameworks & Tools:**
+<img alt="My Tools" src="https://skillicons.dev/icons?i=arch,git,github,docker,cmake,vscode&perline=6">
 
-**Embedded & Systems** : STM32, Raspberry Pi, Qt (C++ GUI & system tools)
+**Embedded & Simulation:**
+<img alt="Embedded and Robotics" src="https://skillicons.dev/icons?i=linux,ros&perline=2">&nbsp;<img alt="STM32" title="STM32 / STMicroelectronics" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/STM32-Dark.svg" height="48">&nbsp;<img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/RaspberryPi-Dark.svg" height="48">&nbsp;<img alt="Qt" title="Qt / C++ GUI" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QT-Dark.svg" height="48">&nbsp;<img alt="ArduPilot" title="ArduPilot" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/ArduPilot-Dark.svg" height="48">&nbsp;<img alt="Gazebo" title="Gazebo" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/Gazebo-Dark.svg" height="48">&nbsp;<img alt="QGroundControl" title="QGroundControl" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QGroundControl.svg" height="48">
+
+C++ GUI & system tools
 
 </div>
 
@@ -39,6 +42,6 @@ Building autonomous vehicles and robotics through hands-on defense-sector projec
 </details>
 <br>
 
-[![Gmail](https://skillicons.dev/icons?i=gmail&size=40 "Send Email")](mailto:alihaydarsucu@gmail.com)
-[![Portfolio](https://skillicons.dev/icons?i=htmx&size=40 "Website")](https://alihaydarsucu.github.io)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=40 "LinkedIn")](https://linkedin.com/in/alihaydarsucu)
+[![Portfolio](https://skillicons.dev/icons?i=htmx&size=48 "Website")](https://alihaydarsucu.github.io)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=48 "LinkedIn")](https://linkedin.com/in/alihaydarsucu)
+[<img alt="LeetCode" title="LeetCode" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/LeetCode-Dark.svg" width="48" height="408">](https://leetcode.com/u/alihaydarsucu/)
