@@ -13,31 +13,53 @@ Building autonomous vehicles and robotics through hands-on defense-sector projec
 
 <details>
 <summary><strong>🚀 Tech Stack</strong></summary>
-
-<div >
-
-**Languages & Core:**  
-<img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,java,javascript&perline=6">
-
-**Frameworks & Tools:**
-
-<img alt="My Tools" src="https://skillicons.dev/icons?i=arch,git,github,docker,cmake,vscode&perline=6">
-
-**Embedded & Simulation:**
-
-<img alt="Embedded and Robotics" src="https://skillicons.dev/icons?i=linux,ros&perline=2">&nbsp;<img alt="STM32" title="STM32 / STMicroelectronics" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/STM32-Dark.svg" height="48">&nbsp;<img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/RaspberryPi-Dark.svg" height="48">&nbsp;<img alt="Qt" title="Qt / C++ GUI" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QT-Dark.svg" height="48">&nbsp;<img alt="ArduPilot" title="ArduPilot" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/ArduPilot-Dark.svg" height="48">&nbsp;<img alt="Gazebo" title="Gazebo" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/Gazebo-Dark.svg" height="48">&nbsp;<img alt="QGroundControl" title="QGroundControl" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QGroundControl.svg" height="48">
-
-
-</div>
+<br>
+<table>
+  <tr>
+    <td align="center"><strong>Languages & Core</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="My Skills" src="https://skillicons.dev/icons?i=c,cpp,bash,python,java&perline=5">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frameworks & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="My Tools" src="https://skillicons.dev/icons?i=linux,git,github,docker,cmake,vscode&perline=6">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Embedded & Simulation</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Embedded and Robotics" src="https://skillicons.dev/icons?i=ros">
+      &nbsp;
+      <img alt="STM32" title="STM32 / STMicroelectronics" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/STM32-Dark.svg" height="48">
+      &nbsp;
+      <img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/RaspberryPi-Dark.svg" height="48">
+      &nbsp;
+      <img alt="Qt" title="Qt / C++ GUI" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QT-Dark.svg" height="48">
+      &nbsp;
+      <img alt="ArduPilot" title="ArduPilot" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/ArduPilot-Dark.svg" height="48">
+      &nbsp;
+      <img alt="Gazebo" title="Gazebo" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/Gazebo-Dark.svg" height="48">
+      &nbsp;
+      <img alt="QGroundControl" title="QGroundControl" src="https://raw.githubusercontent.com/alitalhq/skill-icons/main/icons/QGroundControl.svg" height="48">
+    </td>
+  </tr>
+</table>
 
 </details>
-
 
 <details>
 <summary><strong>🎯 Goals</strong></summary>
 
 - Expand **Embedded and AI** projects combining robotics & ML
-- Publish clean STM32 repositories (README + schematics + explanations)
+- Publish clean STM32 and Gazebo simulation repositories (README + schematics + explanations)
 - Contribute to open-source projects (embedded, tooling, or AI infra)
 
 </details>
