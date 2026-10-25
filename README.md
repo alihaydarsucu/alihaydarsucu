@@ -1,7 +1,7 @@
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="./logo-horizontal-dark.svg">
-    <img src="./logo-horizontal.svg" alt="Ali Haydar Sucu" width="520">
+    <img src="./logo-horizontal.svg" alt="Ali Haydar Sucu" width="400">
 	</picture>
 </p>
 
